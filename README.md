@@ -5,7 +5,7 @@ dispositivi client dall’AP target costringendo la vittima a connettere il prop
 configurato per catturare l’intero **4-Way Handshake** che avviene tra l’AP target e i vari dispositivi client ad esso connessi.
 
 Il progetto dunque copre sia l’attacco di tipo **Social Engineering** attraverso la costruzione dell’**Evil Twin** sia l’attacco crittografico attraverso la cattura del 4-Way
-Handshake e il successivo *cracking* della password. 
+Handshake e il successivo **cracking** della password. 
 
 È doveroso specificare che tutti i test sono stati condotti esclusivamente su reti di mia
 proprietà e a scopo puramente didattico.
